@@ -1,0 +1,1 @@
+javascript:(function(){location.href="https://twitter.com/explore/tabs/trending"})();
